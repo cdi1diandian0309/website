@@ -4,7 +4,12 @@ html {
   }
   
   body {
-    font-family: "Orbitron", serif;
+    /*font-family: "Orbitron", serif;*/
+
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -13,7 +18,7 @@ html {
   }
   
   header {
-    background-color: black;
+    background-color: #ffdaf6;
     color: white;
     padding: 1rem 0;
     text-align: center;
@@ -25,8 +30,7 @@ html {
   }
   
   nav {
-    background-color: grey
-    ;
+    background-color: #87d4ff;
     padding: 0.5rem 0;
   }
   
@@ -67,7 +71,7 @@ html {
     color: #007acc;
     margin-bottom: 1rem;
   }
-  
+  /*
   .headshot {
     display: block;
     margin: 0 auto 1rem auto;
@@ -81,10 +85,11 @@ html {
     font-size: 1rem;
     color: #555;
   }
+    */
   
   footer {
     text-align: center;
-    background-color: #333;
+    background-color: #ffdaf6;
     color: white;
     padding: 1rem 0;
   }
